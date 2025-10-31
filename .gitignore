@@ -1,6 +1,7 @@
 
-*.tif
+copernicus/*.tif
 *.tif.aux.xml
+bulgaria.tif
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

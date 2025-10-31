@@ -9,7 +9,7 @@ image_path = "bulgaria.tif"
 vertical_scale = 1
 latitude_scale = 83000
 longitude_scale = 83000  # 111000
-resolution_rescale = .1
+resolution_rescale = .2
 backend = "cuda"  # 'cpu' or 'cuda'
 
 output_folder = "output"
